@@ -1,0 +1,15 @@
+World University Names Database
+---------------------------------
+
+A world uinversity names database is collected from LinkedIn and Webometric using
+python script.
+
+linkedin.py
+  is a python script to grab university names data from LinkedIn
+
+webometric.py
+  is a python script to gram university names data from Webometric
+
+world_university_names.sql
+  MySQLdump for countries, universities from LinkedIn and Webometric.
+
